@@ -21,16 +21,23 @@ const skills = [
 
 const experiences = [
   {
+    title: "Python Developer",
+    company: "StevesAi Lab, Indore",
+    period: "Dec 2024 - Present",
+    description:
+      "Currently working on developing Python-based solutions and contributing to projects involving generative AI. Collaborate with cross-functional teams to build innovative AI-powered applications, optimizing workflows and implementing state-of-the-art algorithms.",
+  },
+  {
     title: "Team Leader",
     company: "The Hiring Company",
-    period: "Jan 2023 - Present",
+    period: "Jan 2023 - Mar 2024",
     description:
       "Led a team of 5 developers, managed project timelines, and coordinated tasks to achieve company goals. Enhanced team performance through leadership and strategic planning, resulting in a 30% increase in project delivery efficiency.",
   },
   {
     title: "Python Developer Intern",
-    company: "Tech Innovations Inc.",
-    period: "Jun 2022 - Dec 2022",
+    company: "CyberGrow Programming & Computer Institute, Indore",
+    period: "July 2024 - Dec 2024",
     description:
       "Developed and maintained Python applications, collaborated with senior developers on project implementations, and participated in code reviews. Implemented new features that improved application performance by 25%.",
   },
