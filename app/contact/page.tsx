@@ -249,7 +249,7 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold">Schedule a Meeting</h3>
                   <Button variant="outline" className="mt-2" asChild>
-                    <a href="https://calendly.com/yourusername" target="_blank" rel="noopener noreferrer">
+                    <a href="https://calendly.com/mr-ayushsen" target="_blank" rel="noopener noreferrer">
                       Book a Time Slot
                     </a>
                   </Button>
