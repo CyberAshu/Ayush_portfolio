@@ -24,7 +24,6 @@ export function CoffeeCounter() {
       <div className="flex items-center">
         <Coffee className="h-6 w-6 text-amber-600 mr-2" />
         <span className="text-2xl font-bold">{coffeeCount}+</span>
-        <span className="ml-2">Cups of Coffee</span>
       </div>
       <Button
         variant="outline"
@@ -32,7 +31,6 @@ export function CoffeeCounter() {
         className="flex items-center gap-2 hover:bg-amber-50 dark:hover:bg-amber-900/20"
       >
         <Coffee className="h-4 w-4" />
-        <span>Buy me a coffee</span>
       </Button>
     </motion.div>
   )
